@@ -1,0 +1,14 @@
+.btn-regular{
+    background-color: hsla(241, 76%, 55%, 0.933);
+    color: white;
+    height: 30px;
+    width: 150px;
+    border:1px solid gray;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+#h1provided {
+    text-align: center !important;
+    color: #0f38f0 !important;
+}

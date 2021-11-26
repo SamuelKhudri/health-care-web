@@ -1,0 +1,30 @@
+/* .container{
+    width: 100% !important;
+    height: 100vh !important;
+    background-image: linear-gradient(rgba(0,0,0,3),transparent),url(../Image/background.jpg);
+    background-size: cover ;
+    background-position: center;
+    padding: 0 8px;
+    position: relative;
+} */
+
+#mar-btn{
+    margin-right: 2px !important;
+}
+.logo{
+    text-align: center;
+}
+#logo-img{
+    height: 80px;
+    margin-left: 5px;
+}
+/* logo style completed */
+
+/* Nav bar text */
+#navLi{
+    color: #210fc0a8 !important;
+    font-weight: 1000 !important;
+
+}
+
+
